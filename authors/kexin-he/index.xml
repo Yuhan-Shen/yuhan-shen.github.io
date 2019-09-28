@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kexin He | Yuhan Shen</title>
+    <link>https://yuhan.github.io/authors/kexin-he/</link>
+      <atom:link href="https://yuhan.github.io/authors/kexin-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kexin He</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Yuhan Shen</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yuhan.github.io/img/icon-192.png</url>
+      <title>Kexin He</title>
+      <link>https://yuhan.github.io/authors/kexin-he/</link>
+    </image>
+    
+    <item>
+      <title>Audio tagging with noisy labels and minimal supervision</title>
+      <link>https://yuhan.github.io/project/audio_tagging/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://yuhan.github.io/project/audio_tagging/</guid>
+      <description>&lt;p&gt;This is a task of the Detection and Classification of Acoustic Scenes and Events (DCASE) Challenge 2019. It aims to develop a well-performed audio tagging system using a small amount of manually-labeled data and a large quantity of noisy-labeled data. We took part in this competition and won the 2nd place. To achieve state-of-the-art performance, we mainly adopted the following strategies:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;We used mixup and SpecAugment for data augmentation.&lt;/li&gt;
+&lt;li&gt;We designed a sigmoid-softmax activation structure to deal with sparse multi-label classification.&lt;/li&gt;
+&lt;li&gt;We proposed a staged training strategy to learn from nose data.&lt;/li&gt;
+&lt;li&gt;We applied post-processing method that normalizes output scores for each sound class.&lt;/li&gt;
+&lt;li&gt;We adopted ensemble method that averages models learned with multiple neural networks and acoustic features.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rare sound event detection</title>
+      <link>https://yuhan.github.io/project/sound_event_detection/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://yuhan.github.io/project/sound_event_detection/</guid>
+      <description>&lt;p&gt;We propose a temporal-frequential attention model for sound event detection (SED). Our network learns how to listen with two attention models: a temporal attention model and a frequential attention model. Proposed system learns when to listen using the temporal attention model while it learns where to listen on the frequency axis using the frequential attention model. With these two models, we attempt to make our system pay more attention to important frames or segments and important frequency components for sound event detection. Our proposed method is demonstrated on the task 2 of Detection and Classification of Acoustic Scenes and Events (DCASE) 2017 Challenge and outperforms state-of-the-art methods.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
