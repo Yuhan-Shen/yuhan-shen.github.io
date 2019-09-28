@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Yuhan Shen</title>
-    <link>https://yuhan.github.io/authors/</link>
-      <atom:link href="https://yuhan.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yuhan-shen.github.io/authors/</link>
+      <atom:link href="https://yuhan-shen.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Yuhan Shen</copyright><lastBuildDate>Sun, 15 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yuhan.github.io/img/icon-192.png</url>
+      <url>https://yuhan-shen.github.io/img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://yuhan.github.io/authors/</link>
+      <link>https://yuhan-shen.github.io/authors/</link>
     </image>
     
     <item>
-      <title>&lt;strong&gt;Yu-Han Shen*&lt;/strong&gt;</title>
-      <link>https://yuhan.github.io/authors/strongyu-han-shen/strong/</link>
+      <title>&lt;strong&gt;Yu-Han Shen&lt;/strong&gt;</title>
+      <link>https://yuhan-shen.github.io/authors/strongyu-han-shen/strong/</link>
       <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://yuhan.github.io/authors/strongyu-han-shen/strong/</guid>
+      <guid>https://yuhan-shen.github.io/authors/strongyu-han-shen/strong/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ke-Xin He*</title>
-      <link>https://yuhan.github.io/authors/ke-xin-he/</link>
+      <title>Ke-Xin He</title>
+      <link>https://yuhan-shen.github.io/authors/ke-xin-he/</link>
       <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://yuhan.github.io/authors/ke-xin-he/</guid>
+      <guid>https://yuhan-shen.github.io/authors/ke-xin-he/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wei-Qiang Zhang</title>
-      <link>https://yuhan.github.io/authors/wei-qiang-zhang/</link>
+      <link>https://yuhan-shen.github.io/authors/wei-qiang-zhang/</link>
       <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://yuhan.github.io/authors/wei-qiang-zhang/</guid>
+      <guid>https://yuhan-shen.github.io/authors/wei-qiang-zhang/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Kexin He</title>
-      <link>https://yuhan.github.io/authors/kexin-he/</link>
+      <title>Kexin He*</title>
+      <link>https://yuhan-shen.github.io/authors/kexin-he/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://yuhan.github.io/authors/kexin-he/</guid>
+      <guid>https://yuhan-shen.github.io/authors/kexin-he/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Yuhan Shen</title>
-      <link>https://yuhan.github.io/authors/yuhan-shen/</link>
+      <title>Yuhan Shen*</title>
+      <link>https://yuhan-shen.github.io/authors/yuhan-shen/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://yuhan.github.io/authors/yuhan-shen/</guid>
+      <guid>https://yuhan-shen.github.io/authors/yuhan-shen/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://yuhan.github.io/authors/admin/</link>
+      <link>https://yuhan-shen.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yuhan.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Yuhan Shen is a PhD student in Computer Science in Khoury College of Computer Sciences at Northeastern University, Boston, MA. He is working on the intersection of computer vision and natural language processing, co-advised by Professor Ehsan Elhamifar and Professor Lu Wang. Before joining Northeastern University, he received his bachelor&amp;rsquo;s degree from Department of Electronic Engineering at Tsinghua University in China in 2018. He also worked as a research assistant in Speech and Audio Lab at Tsinghua University under the guidance of Professor Wei-Qiang Zhang.&lt;/p&gt;
+      <guid>https://yuhan-shen.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Yuhan Shen is a PhD student in Computer Science in Khoury College of Computer Sciences at Northeastern University, Boston, MA. He is working on the intersection of computer vision and natural language processing, co-advised by Professor Ehsan Elhamifar and Professor Lu Wang. Before joining Northeastern University, he received his bachelor&amp;rsquo;s degree from Department of Electronic Engineering at Tsinghua University in China in 2018. He also worked as a research assistant in Speech and Audio Technology Lab at Tsinghua University under the guidance of Professor Wei-Qiang Zhang.&lt;/p&gt;
 </description>
     </item>
     
