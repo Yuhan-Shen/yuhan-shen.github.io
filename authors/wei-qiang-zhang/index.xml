@@ -5,12 +5,28 @@
     <link>https://yuhan-shen.github.io/authors/wei-qiang-zhang/</link>
       <atom:link href="https://yuhan-shen.github.io/authors/wei-qiang-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Wei-Qiang Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Yuhan Shen</copyright><lastBuildDate>Sun, 15 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Yuhan Shen</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yuhan-shen.github.io/img/icon-192.png</url>
       <title>Wei-Qiang Zhang</title>
       <link>https://yuhan-shen.github.io/authors/wei-qiang-zhang/</link>
     </image>
+    
+    <item>
+      <title>Multiple Neural Networks with Ensemble Method for Audio Tagging with Noisy Labels and Minimal Supervision</title>
+      <link>https://yuhan-shen.github.io/content/publication/he-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://yuhan-shen.github.io/content/publication/he-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Neural Networks with Ensemble Method for Audio Tagging with Noisy Labels and Minimal Supervision</title>
+      <link>https://yuhan-shen.github.io/publication/dcase2019_he/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://yuhan-shen.github.io/publication/dcase2019_he/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning How to Listen: A Temporal-Frequential Attention Model for Sound Event Detection</title>
