@@ -5,7 +5,7 @@
     <link>https://yuhan-shen.github.io/</link>
       <atom:link href="https://yuhan-shen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuhan Shen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Yuhan Shen</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Yuhan Shen</copyright><lastBuildDate>Sat, 19 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yuhan-shen.github.io/img/icon-192.png</url>
       <title>Yuhan Shen</title>
@@ -53,7 +53,15 @@
     </item>
     
     <item>
-      <title>[2021/03] One paper accepted by CVPR 2021</title>
+      <title>Unsupervised Procedure Learning from Visual and Language Instructions via Differentiable Weak Sequence Alignment</title>
+      <link>https://yuhan-shen.github.io/publication/cvpr2021/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://yuhan-shen.github.io/publication/cvpr2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[2021/03] One paper is accepted by CVPR 2021</title>
       <link>https://yuhan-shen.github.io/post/cvpr2021/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://yuhan-shen.github.io/post/cvpr2021/</guid>
@@ -69,7 +77,7 @@
     </item>
     
     <item>
-      <title>[2020/01] One paper accepted by ICASSP 2020</title>
+      <title>[2020/01] One paper is accepted by ICASSP 2020</title>
       <link>https://yuhan-shen.github.io/post/icassp2020/</link>
       <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://yuhan-shen.github.io/post/icassp2020/</guid>
@@ -101,7 +109,7 @@
     </item>
     
     <item>
-      <title>Multi-modal Procedure Learning for Video Summarization (in progress)</title>
+      <title>Multi-modal Procedure Learning for Video Summarization</title>
       <link>https://yuhan-shen.github.io/project/video_summarization/</link>
       <pubDate>Sat, 28 Sep 2019 16:20:53 -0400</pubDate>
       <guid>https://yuhan-shen.github.io/project/video_summarization/</guid>

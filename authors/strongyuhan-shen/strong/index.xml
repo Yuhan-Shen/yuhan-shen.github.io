@@ -5,12 +5,20 @@
     <link>https://yuhan-shen.github.io/authors/strongyuhan-shen/strong/</link>
       <atom:link href="https://yuhan-shen.github.io/authors/strongyuhan-shen/strong/index.xml" rel="self" type="application/rss+xml" />
     <description>&lt;strong&gt;Yuhan Shen&lt;/strong&gt;</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Yuhan Shen</copyright><lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Yuhan Shen</copyright><lastBuildDate>Sat, 19 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yuhan-shen.github.io/img/icon-192.png</url>
       <title>&lt;strong&gt;Yuhan Shen&lt;/strong&gt;</title>
       <link>https://yuhan-shen.github.io/authors/strongyuhan-shen/strong/</link>
     </image>
+    
+    <item>
+      <title>Unsupervised Procedure Learning from Visual and Language Instructions via Differentiable Weak Sequence Alignment</title>
+      <link>https://yuhan-shen.github.io/publication/cvpr2021/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://yuhan-shen.github.io/publication/cvpr2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Staged Training Strategy and Multi-Activation for Audio Tagging with Noisy and Sparse Multi-Label Data</title>

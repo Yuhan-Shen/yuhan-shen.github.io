@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lu Wang | Yuhan Shen</title>
+    <link>https://yuhan-shen.github.io/authors/lu-wang/</link>
+      <atom:link href="https://yuhan-shen.github.io/authors/lu-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lu Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Yuhan Shen</copyright><lastBuildDate>Sat, 19 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yuhan-shen.github.io/img/icon-192.png</url>
+      <title>Lu Wang</title>
+      <link>https://yuhan-shen.github.io/authors/lu-wang/</link>
+    </image>
+    
+    <item>
+      <title>Unsupervised Procedure Learning from Visual and Language Instructions via Differentiable Weak Sequence Alignment</title>
+      <link>https://yuhan-shen.github.io/publication/cvpr2021/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://yuhan-shen.github.io/publication/cvpr2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
