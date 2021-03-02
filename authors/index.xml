@@ -5,12 +5,44 @@
     <link>https://yuhan-shen.github.io/authors/</link>
       <atom:link href="https://yuhan-shen.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Yuhan Shen</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Yuhan Shen</copyright><lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yuhan-shen.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://yuhan-shen.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>&lt;strong&gt;Yu-Han Shen&lt;/strong&gt;</title>
+      <link>https://yuhan-shen.github.io/authors/strongyu-han-shen/strong/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://yuhan-shen.github.io/authors/strongyu-han-shen/strong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jia Liu</title>
+      <link>https://yuhan-shen.github.io/authors/jia-liu/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://yuhan-shen.github.io/authors/jia-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ke-Xin He</title>
+      <link>https://yuhan-shen.github.io/authors/ke-xin-he/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://yuhan-shen.github.io/authors/ke-xin-he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei-Qiang Zhang</title>
+      <link>https://yuhan-shen.github.io/authors/wei-qiang-zhang/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://yuhan-shen.github.io/authors/wei-qiang-zhang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>&lt;strong&gt;Yuhan Shen*&lt;/strong&gt;</title>
@@ -29,34 +61,10 @@
     </item>
     
     <item>
-      <title>Wei-Qiang Zhang</title>
-      <link>https://yuhan-shen.github.io/authors/wei-qiang-zhang/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://yuhan-shen.github.io/authors/wei-qiang-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Yuhan Shen</title>
       <link>https://yuhan-shen.github.io/authors/yuhan-shen/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://yuhan-shen.github.io/authors/yuhan-shen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>&lt;strong&gt;Yu-Han Shen&lt;/strong&gt;</title>
-      <link>https://yuhan-shen.github.io/authors/strongyu-han-shen/strong/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://yuhan-shen.github.io/authors/strongyu-han-shen/strong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ke-Xin He</title>
-      <link>https://yuhan-shen.github.io/authors/ke-xin-he/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://yuhan-shen.github.io/authors/ke-xin-he/</guid>
       <description></description>
     </item>
     

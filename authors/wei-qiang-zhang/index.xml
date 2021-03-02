@@ -5,12 +5,20 @@
     <link>https://yuhan-shen.github.io/authors/wei-qiang-zhang/</link>
       <atom:link href="https://yuhan-shen.github.io/authors/wei-qiang-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Wei-Qiang Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Yuhan Shen</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Yuhan Shen</copyright><lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yuhan-shen.github.io/img/icon-192.png</url>
       <title>Wei-Qiang Zhang</title>
       <link>https://yuhan-shen.github.io/authors/wei-qiang-zhang/</link>
     </image>
+    
+    <item>
+      <title>Staged Training Strategy and Multi-Activation for Audio Tagging with Noisy and Sparse Multi-Label Data</title>
+      <link>https://yuhan-shen.github.io/publication/icassp2020/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://yuhan-shen.github.io/publication/icassp2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multiple Neural Networks with Ensemble Method for Audio Tagging with Noisy Labels and Minimal Supervision</title>
