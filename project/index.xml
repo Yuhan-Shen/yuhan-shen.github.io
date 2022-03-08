@@ -5,7 +5,7 @@
     <link>https://yuhan-shen.github.io/project/</link>
       <atom:link href="https://yuhan-shen.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Yuhan Shen</copyright><lastBuildDate>Sat, 28 Sep 2019 16:20:53 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Yuhan Shen</copyright><lastBuildDate>Tue, 28 Sep 2021 16:20:53 -0400</lastBuildDate>
     <image>
       <url>https://yuhan-shen.github.io/img/icon-192.png</url>
       <title>Projects</title>
@@ -13,12 +13,36 @@
     </image>
     
     <item>
-      <title>Multi-modal Procedure Learning for Video Summarization</title>
+      <title>Semi-Weakly Supervised Learning of Complex Actions</title>
+      <link>https://yuhan-shen.github.io/project/semiweak_segment/</link>
+      <pubDate>Tue, 28 Sep 2021 16:20:53 -0400</pubDate>
+      <guid>https://yuhan-shen.github.io/project/semiweak_segment/</guid>
+      <description>&lt;p&gt;&lt;DIV align = &#34;justify&#34;&gt;
+To reduce the cost of manual annotation, we proposed to solve the problem of action segmentation using a small number of weakly-labeled videos and a large number of unlabeled videos.&lt;/p&gt;
+
+&lt;p&gt;&lt;/DIV&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-modal Procedure Learning from instructional videos</title>
       <link>https://yuhan-shen.github.io/project/video_summarization/</link>
       <pubDate>Sat, 28 Sep 2019 16:20:53 -0400</pubDate>
       <guid>https://yuhan-shen.github.io/project/video_summarization/</guid>
       <description>&lt;p&gt;&lt;DIV align = &#34;justify&#34;&gt;
-This is my first PhD project. The goal is to summarize the key steps of instructional videos from both visual and language data using unsupervised procedure learning.
+The goal is to summarize and localize the key steps of instructional videos from both visual and language data using unsupervised procedure learning. To address this problem, we make several major contributions as follows:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Addressed the problem of unsupervised localization of key-steps and feature learning in instructional videos using both visual and language instructions.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Proposed an ordered prototype learning module, which extracts visual and linguistic prototypes representing key-steps in an unsupervised manner.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Proposed a differentiable weak sequence alignment loss that finds ordered one-to-one matching across modalities for feature learning.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Outperformed state-of-the-art methods in unsupervised action segmentation on two benchmark datasets.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This work was published at CVPR 2021 as oral presentation.
 &lt;/DIV&gt;&lt;/p&gt;
 </description>
     </item>
