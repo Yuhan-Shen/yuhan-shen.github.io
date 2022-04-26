@@ -5,7 +5,7 @@
     <link>https://yuhan-shen.github.io/</link>
       <atom:link href="https://yuhan-shen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuhan Shen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Yuhan Shen</copyright><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Yuhan Shen</copyright><lastBuildDate>Sun, 19 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yuhan-shen.github.io/img/icon-192.png</url>
       <title>Yuhan Shen</title>
@@ -49,6 +49,14 @@
       <link>https://yuhan-shen.github.io/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://yuhan-shen.github.io/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-Weakly-Supervised Learning of Complex Actions from Instructional Task Videos</title>
+      <link>https://yuhan-shen.github.io/publication/cvpr2022/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://yuhan-shen.github.io/publication/cvpr2022/</guid>
       <description></description>
     </item>
     
@@ -202,7 +210,7 @@ This is a task of the Detection and Classification of Acoustic Scenes and Events
 &lt;ol&gt;
 &lt;li&gt;We used mixup and SpecAugment for data augmentation.&lt;/li&gt;
 &lt;li&gt;We designed a sigmoid-softmax activation structure to deal with sparse multi-label classification.&lt;/li&gt;
-&lt;li&gt;We proposed a staged training strategy to learn from nose data.&lt;/li&gt;
+&lt;li&gt;We proposed a staged training strategy to learn from noisy data.&lt;/li&gt;
 &lt;li&gt;We applied post-processing method that normalizes output scores for each sound class.&lt;/li&gt;
 &lt;li&gt;We adopted ensemble method that averages models learned with multiple neural networks and acoustic features.
 &lt;/DIV&gt;&lt;/li&gt;

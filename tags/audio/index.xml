@@ -23,7 +23,7 @@ This is a task of the Detection and Classification of Acoustic Scenes and Events
 &lt;ol&gt;
 &lt;li&gt;We used mixup and SpecAugment for data augmentation.&lt;/li&gt;
 &lt;li&gt;We designed a sigmoid-softmax activation structure to deal with sparse multi-label classification.&lt;/li&gt;
-&lt;li&gt;We proposed a staged training strategy to learn from nose data.&lt;/li&gt;
+&lt;li&gt;We proposed a staged training strategy to learn from noisy data.&lt;/li&gt;
 &lt;li&gt;We applied post-processing method that normalizes output scores for each sound class.&lt;/li&gt;
 &lt;li&gt;We adopted ensemble method that averages models learned with multiple neural networks and acoustic features.
 &lt;/DIV&gt;&lt;/li&gt;
