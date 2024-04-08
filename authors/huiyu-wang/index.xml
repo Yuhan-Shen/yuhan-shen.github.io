@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Huiyu Wang | Yuhan Shen</title>
+    <link>https://yuhan-shen.github.io/authors/huiyu-wang/</link>
+      <atom:link href="https://yuhan-shen.github.io/authors/huiyu-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Huiyu Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Yuhan Shen</copyright><lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yuhan-shen.github.io/img/icon-192.png</url>
+      <title>Huiyu Wang</title>
+      <link>https://yuhan-shen.github.io/authors/huiyu-wang/</link>
+    </image>
+    
+    <item>
+      <title>Learning to Segment Referred Objects from Narrated Egocentric Videos</title>
+      <link>https://yuhan-shen.github.io/publication/cvpr2024_rosa/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://yuhan-shen.github.io/publication/cvpr2024_rosa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

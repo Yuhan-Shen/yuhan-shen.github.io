@@ -5,12 +5,36 @@
     <link>https://yuhan-shen.github.io/publication_types/1/</link>
       <atom:link href="https://yuhan-shen.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Yuhan Shen</copyright><lastBuildDate>Sun, 19 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Yuhan Shen</copyright><lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yuhan-shen.github.io/img/icon-192.png</url>
       <title>1</title>
       <link>https://yuhan-shen.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Learning to Segment Referred Objects from Narrated Egocentric Videos</title>
+      <link>https://yuhan-shen.github.io/publication/cvpr2024_rosa/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://yuhan-shen.github.io/publication/cvpr2024_rosa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progress-Aware Online Action Segmentation for Egocentric Procedural Task Videos</title>
+      <link>https://yuhan-shen.github.io/publication/cvpr2024_protas/</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://yuhan-shen.github.io/publication/cvpr2024_protas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Role of Audio in Video Captioning</title>
+      <link>https://yuhan-shen.github.io/publication/cvprw2024/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://yuhan-shen.github.io/publication/cvprw2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Semi-Weakly-Supervised Learning of Complex Actions from Instructional Task Videos</title>
